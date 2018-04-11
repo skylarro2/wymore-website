@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:". This descriptio
   sequence reconstruction to help frame questions and develop hypotheses
   directed towards understanding sequence-structure-function relationships.
 baseurl: ""
-url: ""
+url: "https://brooks.chem.lsa.umich.edu/wymore/"
 
 include:
   - .htaccess
