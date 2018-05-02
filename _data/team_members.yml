@@ -1,9 +1,57 @@
 - name: Dr. Troy Wymore
-  photo: bio-photo.jpg
-  info: TODO
-  email: TODO
-  number_educ: 4
-  education1: TODO
-  education2: TODO
-  education3: TODO
-  education4: TODO
+  photo: logo.png
+  page: wymore
+  number_educ: 2
+  education1:
+    info: >+
+          Ph.D. Chemistry, University of Missouri-Columbia <br>
+          Research Advisor: Prof. Tuck Wong (Emeritus)
+    date: 1999
+  education2:
+    info: B.Sc. Chemistry, University of Missouri-Columbia
+    date: 1993
+  education3:
+    info: >+
+          Assistant Research Scientist and Lecturer (Biophysics 370) <br>
+          Department of Chemistry, University of Michigan
+    date: 2016-current
+  education4:
+    info: >+
+          Research Assistant Professor <br>
+          Department of Biochemistry, Cellular and Molecular Biology <br>
+          UT/ORNL Center for Molecular Biophysics
+    date: 1999-2012
+  education5:
+    info: >+
+          Sr. Scientific Specialist
+          Pittsburgh Supercomputing Center,
+          National Resource for Biomedical Supercomputing
+    date: 1999-2012
+
+- name: Milo Hartsoe
+  photo: logo.png
+  number_educ: 1
+  education1:
+    info: >+
+          UROP Researcher <br>
+          Molecular Phylogenetics of Flavin Hydroxylases <br>
+          Website Admin
+    date: 2017-2018
+
+- name: Daniel Evans
+  photo: logo.png
+  number_educ: 1
+  education1:
+    info: >+
+          Biophysics 399 Student <br>
+          Ancestral Sequence Reconstruction
+    date: Winter 2018
+
+- name: Angel D. Rodriguez Mackenzie
+  photo: logo.png
+  number_educ: 1
+  education1:
+    info: Graduate Student, <br>
+          University of Puerto Rico-Mayaguez <br>
+          Mechanism of Sulfmyoglobin Formation
+    date: 2016-2018
