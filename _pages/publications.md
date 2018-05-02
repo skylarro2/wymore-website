@@ -9,24 +9,17 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
-
-See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=en)
+See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=en){:target="_blank"}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+<div class="col-sm-12 clearfix" id="normalid">
+ <div class="well" style="display:inline-block;width:100%">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: right;margin-top:0;" />
+  <p>{{ publi.title }}</p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
@@ -34,13 +27,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=e
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
 {% endif %}
 {% endfor %}
 
