@@ -2,6 +2,9 @@
 - title: “A Distal Disulfide Bridge in OXA-1 β-Lactamase Stabilizes the Catalytic Center and Alters the Dynamics of the Specificity Determining Ω Loop”
   image: dummy.png
   description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2017
+  location: 121:3285-3296
   authors: Simakov N, Leonard DA, Smith JC, Wymore T, Szarecka A
   link:
     url: https://doi.org/10.1021/acs.jpcb.6b07884
@@ -13,6 +16,9 @@
 - title: "Clinical Variants of the Native Class D β-Lactamase of Acinetobacter baumannii Pose an Emerging Threat through Increased Hydrolytic Activity against Carbapenems"
   image: 31.png
   description: ""
+  journal: Antimicrob Agents Chemother
+  year: 2016
+  location: 60:6155-6164
   authors: Schroder EC, Klamer ZL, Saral A, Sugg KA, June CM, Wymore T, Szarecka A, Leonard DA
   link:
     url: http://dx.doi.org/10.1128/AAC.01277-16
@@ -24,6 +30,9 @@
 - title: “Homolytic Cleavage of Both Heme-Bound Hydrogen Peroxide and Hydrogen Sulfide Leads to the Formation of Sulfheme”
   image: 30.png
   description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2016
+  location: 120:7319-7331
   authors: H. Arbelo, N. Simakov, J. C. Smith, Juan Lopez-Garriga and T. Wymore
   link:
     url: https://doi.org/10.1021/acs.jpcb.6b02839
@@ -35,6 +44,9 @@
 - title: “Long-Range Electrostatics-Induced Proton Transfer in a Protein Visualized by Neutron Crystallography”
   image: dummy.png
   description: ""
+  journal: Angewandte Chemie
+  year: 2016
+  location: 55:4924-4927
   authors: O. Gerlits, T. Wymore, A. Das, Chen-Hsiang Shen, J. M. Parks, J. C. Smith, K. Weiss, D. A. Keen, M. P. Blakeley, P. Langan, I. Weber, A. Kovalevsky.
   link:
     url: https://doi.org/10.1002/anie.201509989
@@ -45,6 +57,9 @@
 - title: “The Structural Basis of Activity Against Aztreonam and Enhanced Spectrum Cephalosporins for Two Carbapenem-Hydrolyzing Class D β-Lactamases from Acinetobacter Baumannii"
   image: dummy.png
   description: ""
+  journal: Biochemistry
+  year: 2015
+  location: 54:1976-1987
   authors: J.M. Mitchell, J. R. Clasman, C. M. June, K-C. J. Kaitany, J. R. LaFleur, M. A. Taracila, N. V. Klinger, R. A. Bonomo, T. Wymore, A. Szarecka, R. A. Powers and D. A. Leonard
   link:
     url: https://doi.org/10.1021/bi501547k
@@ -54,7 +69,11 @@
 # 27
 - title: "Multiscale Modeling of Nerve Agent Hydrolysis Mechanisms: A Tale of Two Nobel Prizes"
   image: 27.png
-  description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+  description: ""
+  type: Invited Review
+  journal: Physica Scripta
+  year: 2014
+  location: 89:108004 (11 pages)
   authors: M. J. Field and T. Wymore
   link:
     url: http://doi.org/10.1021/jp410422c
@@ -65,7 +84,10 @@
 # 26
 - title: "L-Arabinose Binding, Isomerization, and Epimerization by D-Xylose Isomerase: X-Ray/Neutron Crystallographic and Molecular Simulation Study"
   image: 26.png
-  description:
+  description: ""
+  journal: Structure
+  year: 2014
+  location: 22:1287-1300
   authors: P. Langan, A. K. Sangha, T. Wymore, J. Parks, Z. K. Yang, B. L. Hanson, Z. Fisher, S. Mason, M. P. Blakely, T. Forsyth, J. P. Glusker, H. L. Carrell, J. C. Smith, D. A. Keen, D. E. Graham and A. Kovalevsky
   link:
     url: https://doi.org/10.1016/j.str.2014.07.002
@@ -77,7 +99,10 @@
 # 25
 - title: "Hydrolysis of DFP and (S)-Sarin by DFPase proceeds along two different reaction pathways:Implications for Engineering Bioscavengers"
   image: 25.png
-  description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. "
+  description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2014
+  location: 118:4479-89
   authors: T. Wymore*, M. J. Field, P. Langan, J. C. Smith, and J. M. Parks
   link:
     url: https://doi.org/10.1021/jp410422c
@@ -89,6 +114,9 @@
 - title: "Exploring the Physicochemical Properties of Oxime-Reactivation Therapeutics for Cyclosarin, Sarin, Tabun, and VX Inactivated Acetylcholinesterase"
   image: 24.jpeg
   description: ""
+  journal: Chemical Research in Toxicology
+  year: 2014
+  location: 27:99-110
   authors: E. X. Esposito, T. R. Stouch, T. Wymore and J. D. Madura
   link:
     url: https://doi.org/10.1021/tx400350b
@@ -99,7 +127,10 @@
 # 23
 - title: "GTKDynamo: a PyMOL plug-in for QC/MM Hybrid Potential Simulations."
   image: 23.png
-  description:
+  description: ""
+  journal: Journal of Computational Chemistry
+  year: 2013
+  location: 34:2190-2196
   authors: J. Fernando Bachega, L. F. Timmers, L. Assirati, L. R. Bachega, M. J. Field, T. Wymore.
   link:
     url: https://doi.org/10.1002/jcc.23346
@@ -109,7 +140,10 @@
 # 22
 - title: "Asymmetric Ligand Binding Facilitates Conformational Transitions in Pentameric Ligand-gated Ion Channels"
   image: dummy.png
-  description:
+  description: ""
+  journal: Journal of American Chemical Society
+  year: 2013
+  location: 135:2172-2180
   authors: M. H. Cheng, D. Mowrey, L. T. Liu, D. Willenbring, T. Wymore, Y. Xu and P. Tang.
   highlight: 0
   link:
@@ -120,7 +154,11 @@
 # 21
 - title: "From Molecular Phylogenetics to Quantum Chemistry: Discovering Nature’s Design Principles through  Computation"
   image: dummy.png
-  description:
+  description: ""
+  type: Invited Review for Special Issue
+  journal: Computational and Structural Biotechnology Journal
+  year: 2012
+  location: "2:e201209018"
   authors: C. L. Brooks III and T. Wymore*
   link:
     url: https://doi.org/10.5936/csbj.201209018
@@ -131,7 +169,10 @@
 # 20
 - title: "A Mechanism for Evolving Novel Plant Sesquiterpene Synthase Function"
   image: 20.png
-  description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium "
+  description: ""
+  journal: Molecular Informatics
+  year: 2011
+  location: 30:896-906
   authors: T. Wymore*, B. Y. Chen, H. B. Nicholas Jr., A. J. Ropelewski and C. L. Brooks III
   link:
     url: https://doi.org/10.1002/minf.201100087
@@ -142,7 +183,10 @@
 # 19
 - title: "The class D Beta-lactamase Family: Residues Governing the Maintenance and Diversity of Function"
   image: 19combined.png
-  description:
+  description: ""
+  journal: Protein Engineering, Design and Selection
+  year: 2011
+  location: 24:801-809
   authors: A. Szarecka, K. R. Lesnock, C. Ramirez-Mondragon, B. Y. Chen, H. B. Nicholas Jr. and T. Wymore*
   link:
     url: https://doi.org/10.1093/protein/gzr041
@@ -155,7 +199,10 @@
 # 18
 - title: "The Plasmodium Glutathione S-Transferase: Bioinformatics Characterization and Classification into the Sigma Class"
   image: dummy.png
-  description:
+  description: ""
+  journal: Proceedings of Bioinformatics
+  year: 2010
+  location: "1st International Conference on Bioinformatics, 173-180. Lisbon, Portugal, ISBN: 978-989-674-019-1"
   authors: E. Colon-Lorenzo, A. Serrano, H. B. Nicholas, T. Wymore, A. Ropelewski and R. Gonzalez-Mendez
   link:
     url: https://experts.umich.edu/en/publications/the-plasmodium-glutathione-s-transferase-bioinformatics-character
@@ -167,7 +214,10 @@
 # 17
 - title: "Gamma-glutamyl semialdehyde dehydrogenase: simulations on native and mutant forms support the importance of outer shell lysines"
   image: dummy.png
-  description:
+  description: ""
+  journal: Chemico-Biological Interactions
+  year: 2009
+  location: 178(1-3):75- 78
   authors: J. Hempel, A. Kraut and T. Wymore
   link:
     url: https://doi.org/10.1016/j.cbi.2008.10.009
@@ -179,8 +229,11 @@
 # 16
 - title: "Mechanistic Implications of the Cysteine-Nicotinamide Adduct in Aldehyde Dehydrogenase Based on Quantum  Mechanical/Molecular Mechanical Simulations"
   image: dummy.png
-  description:
-  authors: T. Wymore*, D. W. Deerfield II and J. Hempel
+  description: ""
+  journal: Biochemistry
+  year: 2007
+  location: "46: 9495-9506"
+  authors: "T. Wymore*, D. W. Deerfield II and J. Hempel"
   link:
     url: https://doi.org/10.1021/bi700555g
     display: "doi: 10.1021/bi700555g"
@@ -191,7 +244,10 @@
 # 15
 - title: "A Quantum Chemical Study of the Mechanism of Action of Vitamin K Epoxide Reductase (VKOR): II.  Transition States"
   image: dummy.png
-  description:
+  description: ""
+  journal: J. Molecular Graphics and Modeling
+  year: 2007
+  location: 26:401-408
   authors: C. H. Davis, D. W. Deerfield II, T. Wymore, D. W. Stafford, L. G. Pedersen
   link:
     url: https://doi.org/10.1016/j.jmgm.2006.10.005
@@ -203,7 +259,10 @@
 # 14
 - title: "A Quantum Chemical Study of the Mechanism of Action of Vitamin K Carboxylase (VKC): III. Intermediates  and Transition States"
   image: dummy.png
-  description:
+  description: ""
+  journal: J. Molecular Graphics and Modeling
+  year: 2007
+  location: 26:409-414
   authors: C. H. Davis, D. W. Deerfield II, T. Wymore, D. W. Stafford, L. G. Pedersen
   link:
     url: https://doi.org/10.1016/j.jmgm.2006.10.006
@@ -215,7 +274,10 @@
 # 13
 - title: "Unexpected Encounters in Simulations of the ALDH Mechanism"
   image: dummy.png
-  description:
+  description: ""
+  journal: Enzymology and Molecular Biology of Carbonyl Metabolism
+  year: 2007
+  location: 13:9-13 Weiner, H., B. Plapp, R.Lindahl, and E. Maser, eds. Purdue University Press, Lafayette, IN
   authors: J. Hempel, H. B. Nicholas Jr., S. T. Brown, T. Wymore
   link:
     url: https://dx.doi.org/10.1021%2Fbi700555g
@@ -227,7 +289,10 @@
 # 12
 - title: "The Use of Alternative Alignments and Structural Scoring Methods for Comparative Protein Structure Modeling"
   image: dummy.png
-  description:
+  description: ""
+  journal: Journal of Chemical Information and Modeling
+  year: 2007
+  location: 47:1263-1270
   authors: A. C. Marko, K. Stafford and T. Wymore*
   link:
     url: https://dx.doi.org/10.1007%2F978-1-60761-842-3_6
@@ -240,7 +305,10 @@
 # 11
 - title: "Quantum Chemical Study of the Mechanism of Action of Vitamin K Epoxide Reductase (VKOR)"
   image: dummy.png
-  description:
+  description: ""
+  journal: Int. Journal of Quantum Chemistry
+  year: 2006
+  location: 106:2944-2952
   authors: D. W. Deerfield II, C. H. Davis, T. Wymore, D. W. Stafford, L. G. Pedersen
   link:
     url: https://doi.org/10.1016/j.jmgm.2006.10.005
@@ -252,8 +320,11 @@
 # 10
 - title: "Molecular Recognition of Aldehydes by Aldehyde Dehydrogenase and Mechanism of Nucleophile Activation"
   image: dummy.png
-  description:
-  authors: T. Wymore*, J. Hempel, S. S. Cho, A. D. MacKerell, H. B. Nicholas and D. W. Deerfield II
+  description: ""
+  journal: "PROTEINS: Struct. Func. Bioinf"
+  year: 2004
+  location: "57:758-771 (COVER Article)."
+  authors: "T. Wymore*, J. Hempel, S. S. Cho, A. D. MacKerell, H. B. Nicholas and D. W. Deerfield II"
   link:
     url: https://doi.org/10.1002/prot.20256
     display: "doi: 10.1002/prot.20256"
@@ -264,7 +335,10 @@
 # 9
 - title: "Parametrization of 2-Bromo- 2-Chloro- 1,1,1-Trifluoroethane (Halothane) and Hexafluoroethane for Nonbonded  Interactions"
   image: dummy.png
-  description:
+  description: ""
+  journal: Journal of Physical Chemistry A
+  year: 2004
+  location: 108(5):781-786
   authors: Z. Liu, Yan Xu, A. C. Saladino, T. Wymore, and P. Tang
   link:
     url: https://doi.org/10.1021/jp0368482
@@ -277,7 +351,10 @@
 # 8
 - title: "Initial Events in class 3 Aldehyde Dehydrogenase: MM and QM/MM simulations"
   image: dummy.png
-  description:
+  description: ""
+  journal: Chemico-Biological Interactions
+  year: 2003
+  location: 143-144:75-84
   authors: T. Wymore*, D. W. Deerfield II, M. J. Field, H. B. Nicholas Jr. and J. Hempel
   link:
     url: https://doi.org/10.1016/S0009-2797(02)00175-8
@@ -289,7 +366,10 @@
 # 7
 - title: "An Algorithm for Identification and Ranking of Family-Specific Residues, Applied to the ALDH3 family"
   image: dummy.png
-  description:
+  description: ""
+  journal: Chemico-Biological Interactions
+  year: 2003
+  location: 143-144:23-28
   authors: J. Hempel, J. Perozich, T. Wymore and H. B. Nicholas Jr.
   link:
     url: https://doi.org/10.1016/S0009-2797(02)00165-5
@@ -301,7 +381,10 @@
 # 6
 - title: "Molecular Dynamics Simulation of class 3 Aldehyde Dehydrogenase"
   image: dummy.png
-  description:
+  description: ""
+  journal: Chemico-Biological Interactions
+  year: 2001
+  location: 130-132:201-207
   authors: T. Wymore*, H. B. Nicholas and J. Hempel
   link:
     url: https://doi.org/10.1021/bi962734n
@@ -313,7 +396,10 @@
 # 5
 - title: "Structure and Dynamics of ACTH(1-10) on the Surface of the Sodium Dodecylsulfate (SDS) Micelle: A Molecular  Dynamics Simulation Study"
   image: 5combined.png
-  description:
+  description: ""
+  journal: Journal of Biomolecular Structure and Dynamics
+  year: 2000
+  location: 18:461-476
   authors: T. Wymore and T. C. Wong
   link:
     url: https://doi.org/10.1080/07391102.2000.10506681
@@ -325,7 +411,10 @@
 # 4
 - title: "Molecular Dynamics Simulation of the Structure and Dynamics of a Dodecylphosphocholine Micelle in Aqueous  Solution"
   image: 4.png
-  description:
+  description: ""
+  journal: Journal of Molecular Structure
+  year: 1999
+  location: 485-6:195-210
   authors: T. Wymore, X. Gao and T. C. Wong
   link:
     url: https://doi.org/10.1021/jp001268f
@@ -337,7 +426,10 @@
 # 3
 - title: "Molecular Dynamics Study of Substance P Peptides Partitioned in an SDS Micelle"
   image: 3.png
-  description:
+  description: ""
+  journal: Biophysical Journal
+  year: 1999
+  location: 76:1213-1227
   authors: T. Wymore and T. C. Wong
   link:
     url: https://dx.doi.org/10.1016%2FS0006-3495(99)77285-1
@@ -349,7 +441,10 @@
 # 2
 - title: "Molecular Dynamics Study of Substance P Peptides in a Biphasic Membrane Mimetic"
   image: 2.png
-  description:
+  description: ""
+  journal: Biophysical Journal
+  year: 1999
+  location: 76:1199-1212
   authors: T. Wymore and T. C. Wong
   link:
     url: https://dx.doi.org/10.1016%2FS0006-3495(99)77284-X
@@ -361,7 +456,10 @@
 # 1
 - title: "Adverse Effects on Plasma Polymerized Films due to Oxygen Etching in an Electrodeless Reactor"
   image: dummy.png
-  description:
+  description: ""
+  journal: J. Vac. Sci. Technol. A
+  year: 1994
+  location: 12, 677-680
   authors: T. Wymore and M. F. Nichols
   link:
     url: https://doi.org/10.1116/1.578852

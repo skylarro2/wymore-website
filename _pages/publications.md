@@ -11,7 +11,6 @@ permalink: /publications/
 
 See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=en){:target="_blank"}
 
-{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% if publi.highlight == 1 %}
@@ -22,6 +21,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=e
   <p>{{ publi.title }}</p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
+  <p><b>{{publi.type}}</b>, <i>{{ publi.journal}}</i>, <b>{{ publi.year }}</b>, {{ publi.location }}.</p>
   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -31,19 +31,15 @@ See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=e
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 <p> &nbsp; </p>
-
 
 ## Full List
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em> <br />
+  {% if publi.type %}<b>{{publi.type}}</b>, {% endif %}<i>{{ publi.journal}}</i>, <b>{{ publi.year }}</b>, {{ publi.location }}. <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
