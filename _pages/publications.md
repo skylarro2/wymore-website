@@ -21,7 +21,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=gJa4WDcAAAAJ&hl=e
   <p>{{ publi.title }}</p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><b>{{publi.type}}</b>, <i>{{ publi.journal}}</i>, <b>{{ publi.year }}</b>, {{ publi.location }}.</p>
+  <p>{% if publi.type %}<b>{{publi.type}}</b>, {% endif %} <i>{{ publi.journal}}</i>, <b>{{ publi.year }}</b>, {{ publi.location }}.</p>
   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
