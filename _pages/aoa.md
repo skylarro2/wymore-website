@@ -1,7 +1,7 @@
 ---
-title: "Wymore Lab - AOA"
+title: "Wymore - AOA"
 layout: textlay
-excerpt: "Wymore Lab at the University of Michigan, Ann Arbor."
+excerpt: "Wymore at the University of Michigan, Ann Arbor."
 sitemap: false
 permalink: /aoa.html
 ---

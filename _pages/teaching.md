@@ -1,7 +1,7 @@
 ---
-title: "Wymore Lab - Teaching"
+title: "Wymore - Teaching"
 layout: textlay
-excerpt: "Wymore Lab -- Teaching"
+excerpt: "Wymore -- Teaching"
 sitemap: false
 permalink: /teaching/
 ---

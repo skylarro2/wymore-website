@@ -1,7 +1,7 @@
 ---
-title: "Wymore Lab - Team"
+title: "Wymore - Team"
 layout: gridlay
-excerpt: "Wymore Lab: Team members"
+excerpt: "Wymore: Team members"
 sitemap: false
 permalink: /team/
 ---

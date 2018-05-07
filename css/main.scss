@@ -96,17 +96,24 @@ firstp {
     margin-right: 30px;
 }
 
-#homeid .carousel div div img {
-  margin-left: calc(50% - 175px);
-  width:  350px;
-  height: 200px;
+#carousel div div img {
+  margin-left: calc(50% - 350px);
+  width: 700px;
+  height: 500px;
   background-position: 50% 50%;
-  background-repeat:   no-repeat;
-  background-size:     cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
 .bold {
   font-weight: bold;
   padding-left:0
+}
+
+.banner-text {
+  background-color: #ddd;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 15px;
 }

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Wymore Lab at the University of Michigan, Ann Arbor."
+excerpt: "Wymore at the University of Michigan, Ann Arbor."
 sitemap: false
 permalink: /allnews.html
 ---

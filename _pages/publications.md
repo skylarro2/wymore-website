@@ -1,7 +1,7 @@
 ---
-title: "Wymore Lab - Publications"
+title: "Wymore - Publications"
 layout: gridlay
-excerpt: "Wymore Lab -- Publications."
+excerpt: "Wymore -- Publications."
 sitemap: false
 permalink: /publications/
 ---
