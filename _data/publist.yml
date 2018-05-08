@@ -1,6 +1,6 @@
 # 32
 - title: “A Distal Disulfide Bridge in OXA-1 β-Lactamase Stabilizes the Catalytic Center and Alters the Dynamics of the Specificity Determining Ω Loop”
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Journal of Physical Chemistry B
   year: 2017
@@ -14,7 +14,7 @@
 
 # 31
 - title: "Clinical Variants of the Native Class D β-Lactamase of Acinetobacter baumannii Pose an Emerging Threat through Increased Hydrolytic Activity against Carbapenems"
-  image: 31.png
+  image: 31.jpg
   description: ""
   journal: Antimicrob Agents Chemother
   year: 2016
@@ -28,7 +28,7 @@
 
 # 30
 - title: “Homolytic Cleavage of Both Heme-Bound Hydrogen Peroxide and Hydrogen Sulfide Leads to the Formation of Sulfheme”
-  image: 30.png
+  image: 30.jpg
   description: ""
   journal: Journal of Physical Chemistry B
   year: 2016
@@ -42,7 +42,7 @@
 
 # 29
 - title: “Long-Range Electrostatics-Induced Proton Transfer in a Protein Visualized by Neutron Crystallography”
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Angewandte Chemie
   year: 2016
@@ -55,7 +55,7 @@
 
 # 28
 - title: “The Structural Basis of Activity Against Aztreonam and Enhanced Spectrum Cephalosporins for Two Carbapenem-Hydrolyzing Class D β-Lactamases from Acinetobacter Baumannii"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Biochemistry
   year: 2015
@@ -68,7 +68,7 @@
 
 # 27
 - title: "Multiscale Modeling of Nerve Agent Hydrolysis Mechanisms: A Tale of Two Nobel Prizes"
-  image: 27.png
+  image: 27.jpg
   description: ""
   type: Invited Review
   journal: Physica Scripta
@@ -83,7 +83,7 @@
 
 # 26
 - title: "L-Arabinose Binding, Isomerization, and Epimerization by D-Xylose Isomerase: X-Ray/Neutron Crystallographic and Molecular Simulation Study"
-  image: 26.png
+  image: 26.jpg
   description: ""
   journal: Structure
   year: 2014
@@ -98,7 +98,7 @@
 
 # 25
 - title: "Hydrolysis of DFP and (S)-Sarin by DFPase proceeds along two different reaction pathways:Implications for Engineering Bioscavengers"
-  image: 25.png
+  image: 25.jpg
   description: ""
   journal: Journal of Physical Chemistry B
   year: 2014
@@ -112,7 +112,7 @@
 
 # 24
 - title: "Exploring the Physicochemical Properties of Oxime-Reactivation Therapeutics for Cyclosarin, Sarin, Tabun, and VX Inactivated Acetylcholinesterase"
-  image: 24.jpeg
+  image: 24.jpg
   description: ""
   journal: Chemical Research in Toxicology
   year: 2014
@@ -126,7 +126,7 @@
 
 # 23
 - title: "GTKDynamo: a PyMOL plug-in for QC/MM Hybrid Potential Simulations."
-  image: 23.png
+  image: 23.jpg
   description: ""
   journal: Journal of Computational Chemistry
   year: 2013
@@ -139,7 +139,7 @@
 
 # 22
 - title: "Asymmetric Ligand Binding Facilitates Conformational Transitions in Pentameric Ligand-gated Ion Channels"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Journal of American Chemical Society
   year: 2013
@@ -153,7 +153,7 @@
 
 # 21
 - title: "From Molecular Phylogenetics to Quantum Chemistry: Discovering Nature’s Design Principles through  Computation"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   type: Invited Review for Special Issue
   journal: Computational and Structural Biotechnology Journal
@@ -168,7 +168,7 @@
 
 # 20
 - title: "A Mechanism for Evolving Novel Plant Sesquiterpene Synthase Function"
-  image: 20.png
+  image: 20.jpg
   description: ""
   journal: Molecular Informatics
   year: 2011
@@ -182,7 +182,7 @@
 
 # 19
 - title: "The class D Beta-lactamase Family: Residues Governing the Maintenance and Diversity of Function"
-  image: 19combined.png
+  image: 19combined.jpg
   description: ""
   journal: Protein Engineering, Design and Selection
   year: 2011
@@ -198,7 +198,7 @@
 
 # 18
 - title: "The Plasmodium Glutathione S-Transferase: Bioinformatics Characterization and Classification into the Sigma Class"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Proceedings of Bioinformatics
   year: 2010
@@ -213,7 +213,7 @@
 
 # 17
 - title: "Gamma-glutamyl semialdehyde dehydrogenase: simulations on native and mutant forms support the importance of outer shell lysines"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Chemico-Biological Interactions
   year: 2009
@@ -228,7 +228,7 @@
 
 # 16
 - title: "Mechanistic Implications of the Cysteine-Nicotinamide Adduct in Aldehyde Dehydrogenase Based on Quantum  Mechanical/Molecular Mechanical Simulations"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Biochemistry
   year: 2007
@@ -243,7 +243,7 @@
 
 # 15
 - title: "A Quantum Chemical Study of the Mechanism of Action of Vitamin K Epoxide Reductase (VKOR): II.  Transition States"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: J. Molecular Graphics and Modeling
   year: 2007
@@ -258,7 +258,7 @@
 
 # 14
 - title: "A Quantum Chemical Study of the Mechanism of Action of Vitamin K Carboxylase (VKC): III. Intermediates  and Transition States"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: J. Molecular Graphics and Modeling
   year: 2007
@@ -273,7 +273,7 @@
 
 # 13
 - title: "Unexpected Encounters in Simulations of the ALDH Mechanism"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Enzymology and Molecular Biology of Carbonyl Metabolism
   year: 2007
@@ -288,7 +288,7 @@
 
 # 12
 - title: "The Use of Alternative Alignments and Structural Scoring Methods for Comparative Protein Structure Modeling"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Journal of Chemical Information and Modeling
   year: 2007
@@ -304,7 +304,7 @@
 
 # 11
 - title: "Quantum Chemical Study of the Mechanism of Action of Vitamin K Epoxide Reductase (VKOR)"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Int. Journal of Quantum Chemistry
   year: 2006
@@ -319,7 +319,7 @@
 
 # 10
 - title: "Molecular Recognition of Aldehydes by Aldehyde Dehydrogenase and Mechanism of Nucleophile Activation"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: "PROTEINS: Struct. Func. Bioinf"
   year: 2004
@@ -334,7 +334,7 @@
 
 # 9
 - title: "Parametrization of 2-Bromo- 2-Chloro- 1,1,1-Trifluoroethane (Halothane) and Hexafluoroethane for Nonbonded  Interactions"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Journal of Physical Chemistry A
   year: 2004
@@ -350,7 +350,7 @@
 
 # 8
 - title: "Initial Events in class 3 Aldehyde Dehydrogenase: MM and QM/MM simulations"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Chemico-Biological Interactions
   year: 2003
@@ -365,7 +365,7 @@
 
 # 7
 - title: "An Algorithm for Identification and Ranking of Family-Specific Residues, Applied to the ALDH3 family"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Chemico-Biological Interactions
   year: 2003
@@ -380,7 +380,7 @@
 
 # 6
 - title: "Molecular Dynamics Simulation of class 3 Aldehyde Dehydrogenase"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: Chemico-Biological Interactions
   year: 2001
@@ -395,7 +395,7 @@
 
 # 5
 - title: "Structure and Dynamics of ACTH(1-10) on the Surface of the Sodium Dodecylsulfate (SDS) Micelle: A Molecular  Dynamics Simulation Study"
-  image: 5combined.png
+  image: 5combined.jpg
   description: ""
   journal: Journal of Biomolecular Structure and Dynamics
   year: 2000
@@ -410,7 +410,7 @@
 
 # 4
 - title: "Molecular Dynamics Simulation of the Structure and Dynamics of a Dodecylphosphocholine Micelle in Aqueous  Solution"
-  image: 4.png
+  image: 4.jpg
   description: ""
   journal: Journal of Molecular Structure
   year: 1999
@@ -425,7 +425,7 @@
 
 # 3
 - title: "Molecular Dynamics Study of Substance P Peptides Partitioned in an SDS Micelle"
-  image: 3.png
+  image: 3.jpg
   description: ""
   journal: Biophysical Journal
   year: 1999
@@ -440,7 +440,7 @@
 
 # 2
 - title: "Molecular Dynamics Study of Substance P Peptides in a Biphasic Membrane Mimetic"
-  image: 2.png
+  image: 2.jpg
   description: ""
   journal: Biophysical Journal
   year: 1999
@@ -455,7 +455,7 @@
 
 # 1
 - title: "Adverse Effects on Plasma Polymerized Films due to Oxygen Etching in an Electrodeless Reactor"
-  image: dummy.png
+  image: dummy.jpg
   description: ""
   journal: J. Vac. Sci. Technol. A
   year: 1994
