@@ -29,7 +29,7 @@
     date: 1999-2012
 
 - name: Milo Hartsoe
-  photo: logo.jpg
+  photo: Milo.jpeg
   number_educ: 1
   education1:
     info: >+
@@ -39,7 +39,7 @@
     date: 2017-2018
 
 - name: Daniel Evans
-  photo: logo.jpg
+  photo: Daniel.jpg
   number_educ: 1
   education1:
     info: >+
@@ -48,7 +48,7 @@
     date: Winter 2018
 
 - name: Angel D. Rodriguez Mackenzie
-  photo: logo.jpg
+  photo: img_one_angel_uprm.jpeg
   number_educ: 1
   education1:
     info: Graduate Student, <br>

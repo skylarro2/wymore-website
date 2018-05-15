@@ -15,7 +15,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-10 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4 class="bold">{{ member.name }}</h4>
 
 
@@ -23,7 +23,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   {% endif %}
 
-  <ul style="overflow: hidden;list-style-type: none;padding:0;">
+  <ul style="overflow: hidden;list-style-type: none;padding:0;font-size:1.7rem;">
 
   {% if member.number_educ >= 1 %}
   <li>
