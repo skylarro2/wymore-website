@@ -1,5 +1,5 @@
 - name: Dr. Troy Wymore
-  photo: logo.jpg
+  photo: wymore.jpg
   page: wymore
   number_educ: 2
   education1:
@@ -44,7 +44,8 @@
   education1:
     info: >+
           Biophysics 399 Student <br>
-          Ancestral Sequence Reconstruction
+          Ancestral Sequence Reconstruction <br>
+          <a href="https://lsa.umich.edu/biophysics/news-events/all-news/student-news/biophysics-students-graduate-with-high-honors-.html">Biophysics Students Graduate with High Honors</a>
     date: Winter 2018
 
 - name: Angel D. Rodriguez Mackenzie
