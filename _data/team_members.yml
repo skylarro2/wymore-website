@@ -23,10 +23,53 @@
     date: 1999-2012
   education5:
     info: >+
-          Sr. Scientific Specialist
-          Pittsburgh Supercomputing Center,
+          Sr. Scientific Specialist <br>
+          Pittsburgh Supercomputing Center, <br>
           National Resource for Biomedical Supercomputing
     date: 1999-2012
+  positions:
+    - date: 2016-current
+      info: >+
+            Assistant Research Scientist and Lecturer (Biophysics 370) <br>
+            Department of Chemistry, University of Michigan <br>
+    - date: 2012-2016
+      info: >+
+            Research Assistant Professor <br>
+            Department of Biochemistry, Cellular and Molecular Biology <br>
+            UT/ORNL Center for Molecular Biophysics
+    - date: 1999-2012
+      info: >+
+            Sr. Scientific Specialist <br>
+            Pittsburgh Supercomputing Center
+
+  services:
+    - date: 2018
+      info: >+
+            Editorial Board Member, Journal of Molecular Graphics and Modeling <br>
+            NSF Panel Member, Workshop on “Progress and Perspectives on Neutron Scattering in the Biological Sciences”
+    - date: 2016
+      info: >+
+            National Academies of Science Review Panel Member, <br>
+            Study of Molecular Dynamics
+    - date: 2014
+      info: >+
+            NSF Review Panel Member, Division of Advanced Cyberinfrastructure <br>
+            National Academies of Science Review Panel Member, <br>
+            Study of Molecular Dynamics
+    - date: 2013
+      info: >+
+            Visiting Instructor, Institute of Chemistry, <br>
+            University of São Paulo, Brazil <br>
+            QBQ5883-Biomolecular Simulation with Classic and Hybrid QM Potentials
+    - date: 2011-2017
+      info: Member, NSF Supercomputing Resource Allocations Committee
+    - date: 2005-2007
+      info: Member, NSF Supercomputing Resource Allocations Committee
+    - date: 2001
+      info: >+
+            Fellowship, Human Frontier Science Program, <br>
+            Host/Institute: Martin J. Field, <br>
+            Institute de Biologie Structurale-Jean Pierre Ebel, Grenoble, FR
 
 - name: Milo Hartsoe
   photo: Milo.jpeg

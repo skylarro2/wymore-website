@@ -14,7 +14,7 @@ permalink: /wymore/
 {% if member.name == "Dr. Troy Wymore" %}
 <div class="row">
 
-<div class="col-sm-10 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   <h4 class="bold">{{ member.name }}</h4>
 
@@ -24,43 +24,64 @@ permalink: /wymore/
 
   <ul style="overflow: hidden;list-style-type: none;padding:0;">
 
-  {% if member.education4 %}
+  <b>Education: </b>
+  {% if member.education1 %}
   <li>
-    <div class="bold col-sm-2">{{ member.education1.date }}</div>
-    <div class="col-sm-10">{{ member.education1.info }}</div>
+    <div class="bold col-sm-3">{{ member.education1.date }}</div>
+    <div class="col-sm-9">{{ member.education1.info }}</div>
   </li>
   {% endif %}
 
   {% if member.education2 %}
   <li>
-    <div class="bold col-sm-2">{{ member.education2.date }}</div>
-    <div class="col-sm-10">{{ member.education2.info }}</div>
+    <div class="bold col-sm-3">{{ member.education2.date }}</div>
+    <div class="col-sm-9">{{ member.education2.info }}</div>
   </li>
   {% endif %}
 
   {% if member.education3 %}
   <li>
-    <div class="bold col-sm-2">{{ member.education3.date }}</div>
-    <div class="col-sm-10">{{ member.education3.info }}</div>
+    <div class="bold col-sm-3">{{ member.education3.date }}</div>
+    <div class="col-sm-9">{{ member.education3.info }}</div>
   </li>
   {% endif %}
 
   {% if member.education4 %}
   <li>
-    <div class="bold col-sm-2">{{ member.education4.date }}</div>
-    <div class="col-sm-10">{{ member.education4.info }}</div>
+    <div class="bold col-sm-3">{{ member.education4.date }}</div>
+    <div class="col-sm-9">{{ member.education4.info }}</div>
   </li>
   {% endif %}
 
   {% if member.education5 %}
   <li>
-    <div class="bold col-sm-2">{{ member.education5.date }}</div>
-    <div class="col-sm-10">{{ member.education5.info }}</div>
+    <div class="bold col-sm-3">{{ member.education5.date }}</div>
+    <div class="col-sm-9">{{ member.education5.info }}</div>
   </li>
   {% endif %}
+  <br>
+
+  <b>Positions: </b>
+  {% for position in member.positions %}
+    <li>
+      <div class="bold col-sm-3">{{position.date}}</div>
+      <div class="col-sm-9">{{position.info}}</div>
+    </li>
+  {% endfor %}
+
+  <b>Service: </b>
+  {% for service in member.services %}
+    <li>
+      <div class="bold col-sm-3">{{service.date}}</div>
+      <div class="col-sm-9">{{service.info}}</div>
+    </li>
+    <br>
+  {% endfor %}
 
   </ul>
 </div>
+
+
 
 </div>
 {% endif %}
