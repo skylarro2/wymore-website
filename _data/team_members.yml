@@ -10,23 +10,6 @@
   education2:
     info: B.Sc. Chemistry, University of Missouri-Columbia
     date: 1993
-  education3:
-    info: >+
-          Assistant Research Scientist and Lecturer (Biophysics 370) <br>
-          Department of Chemistry, University of Michigan
-    date: 2016-current
-  education4:
-    info: >+
-          Research Assistant Professor <br>
-          Department of Biochemistry, Cellular and Molecular Biology <br>
-          UT/ORNL Center for Molecular Biophysics
-    date: 1999-2012
-  education5:
-    info: >+
-          Sr. Scientific Specialist <br>
-          Pittsburgh Supercomputing Center, <br>
-          National Resource for Biomedical Supercomputing
-    date: 1999-2012
   positions:
     - date: 2016-current
       info: >+

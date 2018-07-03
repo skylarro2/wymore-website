@@ -24,7 +24,7 @@ permalink: /wymore/
 
   <ul style="overflow: hidden;list-style-type: none;padding:0;">
 
-  <b>Education: </b>
+  <b style="font-size:140%;padding-top:15px;display:inline-block;">Education: </b>
   {% if member.education1 %}
   <li>
     <div class="bold col-sm-3">{{ member.education1.date }}</div>
@@ -61,7 +61,7 @@ permalink: /wymore/
   {% endif %}
   <br>
 
-  <b>Positions: </b>
+  <b style="font-size:140%;padding-top:15px;display:inline-block;">Positions: </b>
   {% for position in member.positions %}
     <li>
       <div class="bold col-sm-3">{{position.date}}</div>
@@ -69,7 +69,7 @@ permalink: /wymore/
     </li>
   {% endfor %}
 
-  <b>Service: </b>
+  <b style="font-size:140%;padding-top:15px;display:inline-block;">Service: </b>
   {% for service in member.services %}
     <li>
       <div class="bold col-sm-3">{{service.date}}</div>
