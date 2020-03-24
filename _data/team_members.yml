@@ -3,18 +3,29 @@
   page: wymore
   number_educ: 2
   education1:
+    info: B.Sc. Chemistry, University of Missouri-Columbia
+    date: 1993
+  education2:
     info: >+
           Ph.D. Chemistry, University of Missouri-Columbia <br>
           Research Advisor: Prof. Tuck Wong (Emeritus)
     date: 1999
-  education2:
-    info: B.Sc. Chemistry, University of Missouri-Columbia
-    date: 1993
+  education3:
+   info: >+
+            Fellowship, Human Frontier Science Program, <br>
+            Host/Institute: Martin J. Field, <br>
+            Institute de Biologie Structurale-Jean Pierre Ebel, Grenoble, FR
+    date: 2001
   positions:
     - date: 2016-current
       info: >+
             Assistant Research Scientist and Lecturer (Biophysics 370) <br>
             Department of Chemistry, University of Michigan <br>
+    - date: 2013
+      info: >+
+            Visiting Instructor, Institute of Chemistry, <br>
+            University of São Paulo, Brazil <br>
+            QBQ5883-Biomolecular Simulation with Classic and Hybrid QM Potentials
     - date: 2012-2016
       info: >+
             Research Assistant Professor <br>
@@ -30,29 +41,20 @@
       info: >+
             Editorial Board Member, Journal of Molecular Graphics and Modeling <br>
             NSF Panel Member, Workshop on “Progress and Perspectives on Neutron Scattering in the Biological Sciences”
-    - date: 2016
+    - date: 
       info: >+
             National Academies of Science Review Panel Member, <br>
             Study of Molecular Dynamics
-    - date: 2014
+    - date: 2019, 2016, 2014
       info: >+
             NSF Review Panel Member, Division of Advanced Cyberinfrastructure <br>
             National Academies of Science Review Panel Member, <br>
             Study of Molecular Dynamics
-    - date: 2013
-      info: >+
-            Visiting Instructor, Institute of Chemistry, <br>
-            University of São Paulo, Brazil <br>
-            QBQ5883-Biomolecular Simulation with Classic and Hybrid QM Potentials
     - date: 2011-2017
       info: Member, NSF Supercomputing Resource Allocations Committee
     - date: 2005-2007
       info: Member, NSF Supercomputing Resource Allocations Committee
-    - date: 2001
-      info: >+
-            Fellowship, Human Frontier Science Program, <br>
-            Host/Institute: Martin J. Field, <br>
-            Institute de Biologie Structurale-Jean Pierre Ebel, Grenoble, FR
+
 
 - name: Milo Hartsoe
   photo: Milo.jpeg
