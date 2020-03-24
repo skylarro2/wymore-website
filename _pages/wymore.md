@@ -16,7 +16,7 @@ permalink: /wymore/
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
-  <h4 class="bold">{{ member.name }}</h4>
+  <h2 class="bold">{{ member.name }}</h2>
 
   {% if member.email %}
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
@@ -24,7 +24,7 @@ permalink: /wymore/
 
   <ul style="overflow: hidden;list-style-type: none;padding:0;">
 
-  <b style="font-size:140%;padding-top:15px;display:inline-block;">Education: </b>
+  <b style="font-size:200%;padding-top:15px;display:inline-block;">Education: </b>
   {% if member.education1 %}
   <li>
     <div class="bold col-sm-3">{{ member.education1.date }}</div>
@@ -46,22 +46,9 @@ permalink: /wymore/
   </li>
   {% endif %}
 
-  {% if member.education4 %}
-  <li>
-    <div class="bold col-sm-3">{{ member.education4.date }}</div>
-    <div class="col-sm-9">{{ member.education4.info }}</div>
-  </li>
-  {% endif %}
-
-  {% if member.education5 %}
-  <li>
-    <div class="bold col-sm-3">{{ member.education5.date }}</div>
-    <div class="col-sm-9">{{ member.education5.info }}</div>
-  </li>
-  {% endif %}
   <br>
 
-  <b style="font-size:140%;padding-top:15px;display:inline-block;">Positions: </b>
+  <b style="font-size:200%;padding-top:15px;display:inline-block;">Positions: </b>
   {% for position in member.positions %}
     <li>
       <div class="bold col-sm-3">{{position.date}}</div>
@@ -69,7 +56,7 @@ permalink: /wymore/
     </li>
   {% endfor %}
 
-  <b style="font-size:140%;padding-top:15px;display:inline-block;">Service: </b>
+  <b style="font-size:200%;padding-top:15px;display:inline-block;">Service: </b>
   {% for service in member.services %}
     <li>
       <div class="bold col-sm-3">{{service.date}}</div>
