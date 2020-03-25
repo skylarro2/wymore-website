@@ -1,3 +1,107 @@
+ # 39
+- title: “A Reaction Pathway to Compound 0 Intermediates in oxy-Myoglobin through Interactions with Hydrogen Sulfide and His64”
+  image: dummy.jpg
+  description: ""
+  journal: Journal of Molecular Graphics and Modeling
+  year: 2020
+  location: 94:107465
+  authors: Simakov N, Leonard DA, Smith JC, Wymore T, Szarecka A
+  link:
+    url: https://doi.org/10.1016/j.jmgm.2019.107465
+    display: doi: 10.1016/j.jmgm.2019.107465
+  highlight: 0
+  news2:
+ # 38
+- title:  “The Hydroxyl Radical Coupled Electron Transfer Mechanism of Flavin-Dependent Hydroxylases”
+  image: dummy.jpg
+  description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2019
+  location: 123(38):8065-8073
+  authors: Sara E. Tweedy, Attabey Rodríguez Benítez, Alison R. H. Narayan, Paul M. Zimmerman, Charles L. Brooks III and Troy Wymore*
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.9b08178
+    display: doi: 10.1021/acs.jpcb.9b08178
+  highlight: 0
+  news2:
+# 37
+- title: “Room-temperature X-ray structures of human acetylcholinesterase capture VX-induced reorientation of oxime reactivator and reveal binding of a VX hydrolysis product”
+  image: dummy.jpg
+  description: ""
+  journal: Journal of Biological Chemistry
+  year: 2019
+  location: 294(27):10607-10618
+  authors: O. Gerlits, M. Fajer, X. Cheng, T. Wymore, D. Blumenthal, P. Taylor, Z. Radić, A. Kovalevsky
+  link:
+    url: https://doi.org/10.1074/jbc.RA119.008725
+    display: doi: 10.1074/jbc.RA119.008725
+  highlight: 0
+  news2:
+# 36
+- title: “Positioning-Group-Enabled Biocatalytic Oxidative Dearomatization”
+  image: dummy.jpg
+  description: ""
+  journal: ACS Central Science
+  year: 2019
+  location: 5(6):1010-1016
+  authors: Summer A. Baker Dockrey, Carolyn Suh, Attabey Rodríguez Benítez, Troy Wymore, Charles L. Brooks III and Alison R. H. Narayan
+  link:
+    url: https://doi.org/10.1021/acscentsci.9b00163
+    display: doi: 10.1021/acscentsci.9b00163
+  highlight: 0
+  news2:
+  # 35
+- title: “Structural Basis for Selectivity in Flavin-dependent Monooxygenase-catalyzed Oxidative Dearomatization”
+  image: dummy.jpg
+  description: ""
+  journal: ACS Catalysis
+  year: 2019
+  location: 9(4):3633-3640
+  authors: Attabey Rodríguez Benítez, S Tweedy, SA Baker Dockrey, AL Lukowski, T Wymore, D Khare, CL Brooks III, BA. Palfey, JL Smith, Alison R. H. Narayan
+  link:
+    url: https://doi.org/10.1021/acscatal.8b04575
+    display: doi: 10.1021/acscatal.8b04575
+  highlight: 0
+  news2:
+  # 34
+- title:  “Neutron Scattering in the Biological Sciences: Progress and Prospects”
+  image: dummy.jpg
+  description: ""
+  journal: Acta Crystallography D Struct Biol
+  year: 2018
+  location: 9(4):3633-3640
+  authors: One of Several Authors
+  link:
+    url: https://doi.org/10.1107/S2059798318017503
+    display: doi: 10.1107/S2059798318017503
+  highlight: 0
+  news2:
+  # 33
+- title: “Charge Transfer and π to π* Transitions in the Visible Spectra of Sulfheme Met Isomeric Structures”
+  image: dummy.jpg
+  description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2018
+  location: 122(19):4947-4955
+  authors: Arbelo-López, HD,  Rodriguez-Mackenzie, AD, Roman-Morales, EM, Wymore, T and López-Garriga, J
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.7b12393
+    display: doi: 10.1021/acs.jpcb.7b12393
+  highlight: 0
+  news2:
+# 32
+- title: “A Distal Disulfide Bridge in OXA-1 β-Lactamase Stabilizes the Catalytic Center and Alters the Dynamics of the Specificity Determining Ω Loop”
+  image: dummy.jpg
+  description: ""
+  journal: Journal of Physical Chemistry B
+  year: 2017
+  location: 121:3285-3296
+  authors: Simakov N, Leonard DA, Smith JC, Wymore T, Szarecka A
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.6b07884
+    display: doi: 10.1021/acs.jpcb.6b07884
+  highlight: 0
+  news2:
 # 32
 - title: “A Distal Disulfide Bridge in OXA-1 β-Lactamase Stabilizes the Catalytic Center and Alters the Dynamics of the Specificity Determining Ω Loop”
   image: dummy.jpg
